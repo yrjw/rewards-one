@@ -1,2 +1,2 @@
 # rewards-one
-ONE
+Rewards One
